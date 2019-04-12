@@ -30,15 +30,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. What is the DOM?
+1. What is the DOM? The DOM is a representation of a web page that can be manipulated by different languages.
 
-2. What is an event?
+2. What is an event? an event is something that happens on our web page that the user does. it could be a click, a double click, inputing text. 
 
-3. What is an event listener?
+3. What is an event listener? an event listener attatched to an element is watching or "listening" for one of the events mentioned above to happen. it then carries out a function or handler for that such event.
 
-4. Why would we convert a NodeList into an Array?
+4. Why would we convert a NodeList into an Array? we convert nodeLists to arrays to be able to better manipulate that information becasue we gain more methods and functions with an actual array.
 
-5. What is a component?
+5. What is a component? a component is pretty much a piece of reusable code that can be implemented over again not just on one document but across multiple files. Kind of like what boostrap does. 
 
 ### Git Set up
 
